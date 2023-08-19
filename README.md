@@ -1,10 +1,32 @@
-# Vagrant - or - how to code in your local computer
-## Learning Objectives
-*At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-*What is a virtual machine
-*What is Vagrant
-*Who wrote Vagrant
-*What is Ubuntu
-*What does “Ubuntu” mean
-*How to use VMs with Vagrant
-*What does the command uname d
+Action	Markdown	Processed
+Emphasis	
+*Emphasize* _emphasize_
+**Strong** __Strong__
+Emphasize
+Strong
+Some WordPress.com themes may have different formatting for these styles
+
+Inline Links	
+A [link](http://example.com "Title").
+Most browsers show the title text when hovering over a link.
+
+Please note that WordPress shortcodes, like [video] or [audio], will take priority over Markdown links and shouldn’t be used for link text.
+
+A link.
+Referenced Links	
+Some text with [a link][1] and
+another [link][2].
+[1]: http://example.com/ "Title"
+[2]: http://example.org/ "Title"
+The reference section can be anywhere in the document.
+
+Some text with a link and another link.
+Inline Images	
+Logo: ![Alt](/wp.png "Title")
+The “Alt” text (alternative text) makes images accessible to visually impaired.
+
+Logo: Alt
+Referenced Images	
+Smaller logo: ![Alt][1]
+[1]: /wp-smaller.png "Title"
+
